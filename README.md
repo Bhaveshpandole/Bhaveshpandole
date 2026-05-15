@@ -1,5 +1,5 @@
 # 💫 About Me:
-I completed my BCA.H 2024 passout batch⚡<br>I have strong foundation in programming and software development and OOP principles👾<br>I'm skilled in Python and good knowledge of frontend as well as backend✨<br>I'm continuosly improving my skill🎯<br>Additionallu learning new technology🚀
+I completed my BCA.H 2024 passout batch⚡<br>I have strong foundation in programming and software development and OOP principles👾<br>I'm skilled in Python and good knowledge of frontend as well as backend✨<br>I'm continuously improving my skill🎯<br>Additionally learning new technology🚀
 
 
 ## 🌐 Socials: 📫 How to reach me:
